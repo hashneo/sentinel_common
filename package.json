@@ -1,0 +1,31 @@
+{
+  "name": "sentinel-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "steven@koo.io",
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.7",
+    "flat": "^2.0.1",
+    "google-cloud": "^0.40.0",
+    "mongodb": "^2.2.8",
+    "mysql": "^2.11.1",
+    "node-jose": "^0.9.1",
+    "node-uuid": "^1.4.7",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "deep-diff": "^0.3.4",
+    "mocha": "^2.5.3",
+    "should": "^7.1.0",
+    "supertest": "^1.2.0",
+    "swagger-parser": "^3.4.1"
+  },
+  "scripts": {
+    "test": "mocha -b"
+  }
+}
