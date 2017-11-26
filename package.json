@@ -8,7 +8,6 @@
   "dependencies": {
     "deasync": "^0.1.7",
     "flat": "^2.0.1",
-    "google-cloud": "^0.40.0",
     "mongodb": "^2.2.8",
     "mysql": "^2.11.1",
     "node-jose": "^0.9.1",
