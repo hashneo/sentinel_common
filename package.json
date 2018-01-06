@@ -12,11 +12,10 @@
     "mongodb": "^2.2.8",
     "mysql": "^2.11.1",
     "node-jose": "^0.9.1",
-    "node-uuid": "^1.4.7",
+    "uuid": "^3.1.0",
     "request": "^2.74.0",
     "request-promise": "^4.1.1",
     "underscore": "^1.8.3",
-    "uuid": "^3.1.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
