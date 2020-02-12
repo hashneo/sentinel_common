@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "steven@koo.io",
+  "author": "steven.taylor@me.com",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
