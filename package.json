@@ -6,27 +6,27 @@
   "author": "steven.taylor@me.com",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.1",
-    "deasync": "^0.1.14",
-    "flat": "^4.1.0",
-    "jwt-decode": "^2.2.0",
+    "chalk": "2.4.1",
+    "deasync": "0.1.14",
+    "flat": "4.1.0",
+    "jwt-decode": "2.2.0",
     "mongodb": "3.1.10",
     "mysql": "2.16.0",
-    "node-jose": "^1.1.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.1.1",
-    "underscore": "^1.9.1",
-    "util": "^0.11.1",
-    "uuid": "^3.3.2",
-    "winston": "^3.1.0"
+    "node-jose": "1.1.0",
+    "request": "2.88.0",
+    "request-promise": "4.1.1",
+    "underscore": "1.9.1",
+    "util": "0.11.1",
+    "uuid": "3.3.2",
+    "winston": "3.1.0"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "deep-diff": "^1.0.2",
-    "mocha": "^5.2.0",
-    "should": "^13.2.3",
-    "supertest": "^3.3.0",
-    "swagger-parser": "^6.0.2"
+    "chai": "4.2.0",
+    "deep-diff": "1.0.2",
+    "mocha": "5.2.0",
+    "should": "13.2.3",
+    "supertest": "3.3.0",
+    "swagger-parser": "6.0.2"
   },
   "scripts": {
     "test": "mocha -b"
